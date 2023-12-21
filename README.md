@@ -1,4 +1,4 @@
-# Hi there 👋<br>🌱 I’m currently learning java at green fox academy 🦊
+## <span style="color:#3687fd">Hi there 👋<br>I’m currently learning java at *green fox academy🦊*</span>
 
 
 
