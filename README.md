@@ -11,8 +11,8 @@
 ## 
 
 ![](https://github-readme-stats.vercel.app/api?username=markpernia&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=markpernia&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=markpernia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=markpernia&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markpernia&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **markpernia/markpernia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
