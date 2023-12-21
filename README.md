@@ -1,5 +1,7 @@
 ## Hi there 👋<br>I’m currently learning java at *green fox academy🦊*
 
+![](https://github.com/markpernia/markpernia/blob/main/yup.gif)
+
 ##
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/markpernia) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m.pernia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markpernia)
 
