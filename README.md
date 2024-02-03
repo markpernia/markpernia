@@ -1,4 +1,4 @@
-## Hi there 👋<br>I am a multimedia arts graduate with a newfound passion for backend programming.
+## Hi there 👋<br>I am a multimedia arts graduate<br> with a newfound passion for backend programming.
 
 ![](https://github.com/markpernia/markpernia/blob/main/yup.gif)
 
