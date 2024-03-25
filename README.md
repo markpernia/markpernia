@@ -1,4 +1,5 @@
 ## Hi there 👋<br>I am a multimedia arts graduate<br> with a newfound passion for backend programming.
+![](https://github.com/markpernia/markpernia/blob/main/giphy.gif)
 #### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markpernia/) 
 #### 💻 Tech Stack
